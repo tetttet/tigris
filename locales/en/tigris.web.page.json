@@ -1,0 +1,111 @@
+{
+    "intro": {
+        "logo": "Tigris Group",
+        "logotext": ", founded in 1982, consists of several esteemed brands, including Mti Tourism, Tigris Tourism, Splendor Tourism, Trema Tourism, Dream Holiday Travel, Target Tourism, and CerModern Arts Center.",
+        "text1": "TIGRIS Tourism, which has been making significant progress in the sector for 20 years, has made this progress M.I .C.E. he has also maintained his activities with ETHICS, INFLUENCE and EFFECTIVE business principles, and has been constantly preferred by adding ADDED VALUE to all the works he has done with the HUMAN principle FIRST. Taking part in the corporate services banner, it has answered all the service details according to request with its professional staff, and has reached the highest levels thanks to the principles and ethical elements it protects.",
+        "text2": "Managed by a team of experts, Tigris Group takes pride in providing high-level services to the tourism and hospitality sector. We are committed to excellence in every aspect of our work, continuously striving to be a leading brand both domestically and internationally."
+    },
+    "promote": {
+        "title1": "Event Organization & Planning",
+        "desc1": "TIGRIS Tourism, which has been making significant progress in the sector for 20 years, We specialize in planning and organizing conferences, seminars, congresses, symposiums, corporate events, and much more.",
+        "title2": "Corporate Services",
+        "desc2_1": "From company dinners to opening ceremonies and award ceremonies, we handle all aspects with professionalism and care.",
+        "desc2_2": " We organize national and international sporting activities, whether in-country or abroad.",
+        "title3": "Our Services Include",
+        "desc3_1": "TIGRIS Tourism",
+        "desc3_2": ", with 20 years of experience, has become a trusted leader in the tourism sector. We are known for our M.I.C.E. (Meetings, Incentives, Conferences, and Events) expertise and operate with the highest standards of ethics, influence, and effectiveness. Our core value is HUMAN FIRST, and we strive to add value to every project we undertake."
+    },
+    "feature": {
+        "title1": "Tigris Group: A Leader in National and International Events",
+        "title2": "Commitment to Quality",
+        "desc1": "Tigris Group has been a prominent partner in organizing some of the most successful national and international events. Notable achievements include the Universiade 2005 - World University Games held in Izmir, one of the largest events in the history of the Republic, as well as the Erzurum 2011 Winter Universiade, Aspendos Art Festival, Bodrum Ballet Festival, and Turkcell Gönül Bridge. These events have showcased the group’s commitment to excellence, and Turkey's steady progress toward becoming a global leader in event management.",
+        "title3": "Mti Tourism: Excellence in Travel Services",
+        "desc2": "Mti Tourism, a pioneer of Tigris Group, has been setting high standards in the Turkish tourism sector for over 20 years. With a focus on customer satisfaction, Mti Tourism ensures that all your travel needs are met. Offering an unparalleled level of service, Mti Tourism guarantees that your expectations will be exceeded on every trip."
+    },
+    "about": {
+        "abouttitle": "About Us",
+        "missiontitle": "Our Mission",
+        "servicestitle": "Our Services",
+        "aboutus": "Our mission at Tigris Group is to lead the way in event management and tourism services by delivering innovative, high-quality, and personalized solutions that exceed our clients' expectations. We are committed to fostering strong partnerships with businesses and organizations, ensuring their success through professional and seamless execution of events and travel experiences.\n\n1. Deliver Exceptional Event Management: To organize and execute large-scale national and international events with precision, creativity, and excellence, ensuring a seamless experience for all participants.\n2. Provide Personalized Tourism Services: To offer tailored travel solutions that cater to the unique needs of each client, ensuring an unmatched level of service and satisfaction in every journey.\n3. Foster Strong Partnerships: To build long-term, mutually beneficial relationships with our business partners, clients, and stakeholders, becoming a trusted solution provider in both event management and tourism sectors.",
+        "services": "As part of the renowned Tigris Group, Splendor Tourism & Organization specializes in offering boutique tourism services that are tailored to meet the unique needs of each client.\nAs a Group A Travel Agency member of TURSAB and IATA, Splendor Tourism & Organization is dedicated to being a professional solution partner for businesses, companies, and agencies. Our team, backed by years of experience in the tourism industry, ensures that your travel needs are met with the highest level of professionalism and expertise.\n\nOur Services Include:\n1. Domestic and international airline ticket bookings\n2. Hotel reservations\n3. Car rentals and transfer services\n4. Visa services\n5. Training meetings and corporate events\n6. Dealer organization and trips\n7. Product launches and congress attendances",
+        "mission": "Our mission at Tigris Group is to lead the way in event management and tourism services by delivering innovative, high-quality, and personalized solutions that exceed our clients' expectations. We are committed to fostering strong partnerships with businesses and organizations, ensuring their success through professional and seamless execution of events and travel experiences.\n\n1. Deliver Exceptional Event Management: To organize and execute large-scale national and international events with precision, creativity, and excellence, ensuring a seamless experience for all participants.\n2. Provide Personalized Tourism Services: To offer tailored travel solutions that cater to the unique needs of each client, ensuring an unmatched level of service and satisfaction in every journey.\n3. Foster Strong Partnerships: To build long-term, mutually beneficial relationships with our business partners, clients, and stakeholders, becoming a trusted solution provider in both event management and tourism sectors."
+    },
+    "gettouch": {
+        "title": "Get in Touch",
+        "contactus": "Contact Us",
+        "desc": "We would love to hear from you! If you have any questions or would like to learn more about our services, please feel free to contact us. Our team is here to help and will respond to your inquiry as soon as possible.",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "location": {
+            "title1": "Stay Connected with Us",
+            "desc1": "We are always here to assist you with any inquiries or support you may need, our team is ready to help.",
+            "title2": "Love to Hear From You!",
+            "desc2": "If you have any questions, comments, or need more information about our services, don’t hesitate to reach out to us.",
+            "title3": "Contact Us Today",
+            "desc3": "Your satisfaction is our priority. Whether you need help planning your next event or booking a travel package, we are here for you.",
+            "title4": "Get in Touch",
+            "desc4": "About our services, please feel free to contact us. Our team is here to help and will respond to your inquiry as soon as possible."
+        },
+        "modal": {
+            "firstname": "First Name",
+            "lastname": "Last Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "message": "Message",
+            "send": "Send Message"
+        }
+    },
+    "port": {
+        "items": {
+            "title1": "Tigris Group: A Leader in National and International Events",
+            "desc1": "Tigris Group has been a prominent partner in organizing some of the most successful national and international events.",
+            "title2": "Mti Tourism: Excellence in Travel Services",
+            "desc2": "Mti Tourism, a pioneer of Tigris Group, has been setting high standards in the Turkish tourism sector for over 20 years.",
+            "title3": "Domestic and International Tourism Services",
+            "desc3": "In addition to domestic tourism, Mti Tourism provides services to top global Japanese companies in Turkey, such as Sumitomo, Marubeni, JICA, and Mitsui.",
+            "title4": "Splendor Tourism & Organization: Personalized Services with Professional Excellence",
+            "desc4": "As part of the renowned Tigris Group, Splendor Tourism & Organization specializes in offering boutique tourism services that are tailored to meet the unique needs of each client."
+        },
+        "title": "Our Portfolio of Services and Partnerships",
+        "subtitle": "  - Innovative Tourism and Event Solutions",
+        "desc": "At Tigris Group, we aim to provide innovative services that align with our vision and values, in partnership with cutting-edge technology from Amadeus. Our goal is to open a world of opportunities for you and ensure your interests remain at the forefront."
+    },
+    "testimonial": {
+        "service": "Our Services",
+        "desc": "Welcome to Tigris Group, where we specialize in providing tailored solutions that meet your unique needs. With a focus on exceptional service and attention to detail, we aim to enhance your experience whether you are traveling for business or leisure.",
+        "title": "Explore our premium offerings",
+        "list": {
+            "title1": "Hotel Reservation",
+            "desc1": "We offer carefully selected accommodations to match your preferences, ensuring a comfortable and hassle-free stay.",
+            "title2": "VIP Transfer",
+            "desc2": "Enjoy the luxury of smooth, reliable, and comfortable transfers with our exclusive VIP transportation services.",
+            "title3": "Private Interpreter",
+            "desc3": "Break any language barrier with our professional interpreters, delivering accurate and confidential translation services for any occasion."
+        }
+    },
+    "faq": {
+        "questionsData": {
+            "q1": "How can I reach support?",
+            "a1": "You can reach our support team by clicking on the 'Contact Us' link in the footer or by sending an email to support@yourcompany.com. Our team is available 24/7 to assist you.",
+            "q2": "What healthcare services are available for international guests?",
+            "a2": "With the privilege of Tigris, guests coming from abroad can benefit from treatments offered by contracted physicians according to their needs.",
+            "q3": "What dental services are provided for international guests?",
+            "a3": "Tigris provides priority health services in oral and dental health to its guests coming to Turkey in its contracted clinics and polyclinics.",
+            "q4": "Can I get urology health operations through Tigris?",
+            "a4": "Yes, as Tigris, we provide intermediary healthcare services for patients to perform urology health operations in contracted clinics.",
+            "q5": "How can I receive Ear, Nose, and Throat (ENT) treatments?",
+            "a5": "Tigris offers intermediary healthcare provider services to ensure that guests receive the best service for ENT treatments.",
+            "q6": "What dental care services are available for international guests?",
+            "a6": "As Tigris, we offer intermediary healthcare services for safe and comfortable oral and dental treatments."
+        },
+        "title": "Did not find what you were looking for?",
+        "question": "Ask us anything",
+        "desc": "If you have any questions or need more information about our services, please feel free to contact us. Our team is here to help and will respond to your inquiry as soon as possible."
+    },
+    "getmoreinfo": "Get More information",
+    "exploremore": "Explore More",
+    "learnmore": "Learn More",
+    "getyournow": "Get Yours Now",
+    "readmore": "Read More",
+    "tigris": "Tigris Group"
+}

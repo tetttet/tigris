@@ -1,0 +1,23 @@
+{
+    "topbar": {
+        "about": "О нас",
+        "doctors": "Врачи",
+        "contact": "Контакты",
+        "services": "Услуги",
+        "fAQ": "Часто задаваемые вопросы"
+    },
+    "navabar": {
+        "tigristourism": "Группа Тигрис",
+        "meetexpert": "Встретить эксперта",
+        "targettourism": "Целевой туризм",
+        "tigrismedical": "Медицина Тигрис",
+        "contact": "Контакты"
+    },
+    "navbar-mobile": {
+        "tigristourism": "Тигрис",
+        "meetexpert": "Эксперты",
+        "targettourism": "Туризм",
+        "tigrismedical": "Медицина",
+        "contact": "Контакты"
+    }
+}
