@@ -32,7 +32,7 @@ import UserForm from './components/UserForm';
 import About from './pages/Layout/About';
 import MenuService from './pages/Service/MenuService';
 
-import MedAbout from './pages/Med/about';
+import MedAbout from './pages/Med/About';
 import MedContact from './pages/Med/Contact';
 import MedDoctors from './pages/Med/Doctors';
 import BlogDetails from './pages/Med/BlogDetails';
