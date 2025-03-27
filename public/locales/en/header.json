@@ -1,0 +1,25 @@
+{
+    "topbar": {
+        "about": "About",
+        "doctors": "Doctors",
+        "contact": "Contact",
+        "services": "Services",
+        "fAQ": "FAQ"
+    },
+    "navabar": {
+        "tigristourism": "Tigris Group",
+        "meetexpert": "Meet Expert",
+        "targettourism": "Target Tourism",
+        "tigrismedical": "Tigris Medical",
+        "contact": "Contact",
+        "about": "About Tigris"
+    },
+    "navbar-mobile": {
+        "tigristourism": "Tigris",
+        "meetexpert": "Experts",
+        "targettourism": "Tourism",
+        "tigrismedical": "Medical",
+        "contact": "Contact",
+        "about": "About"
+    }
+}

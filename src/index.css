@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.primary-blue-med-bg {
+  background-color: #1a76d1;
+}
+
+.primary-button {
+  background-color: #0176b5;
+}
+
+.primary-bg-gray {
+  background-color: #303030;
+}
+
+.primary-bg-blue {
+  background-color: #005582;
+}
+
+.primary-border-blue {
+  border-color: #005b8c;
+}
+
+.primary-bg-blue-header {
+  background-color: #005b8c;
+}
+
+.primary-bg-blue-blacker {
+  background-color: #00476e;
+}
+
+.primary-bg-blue-whiter {
+  background-color: #007fc3;
+}
+
+.primary-bg-blue-lighter {
+  background-color: #0f8acd;
+}
+
+.primary-br-blue-whiter {
+  border-color: #007fc3;
+}
+
+.primary-tx-blue-whiter {
+  color: #0074b3;
+}
+
+.primary-text-blue {
+  color: #005582;
+}
+
+.primary-text {
+  font-size: 15px;
+}
+
+.primary-text-gray {
+  color: #eeeeee;
+}
+
+.primary-bg-whiter {
+  background-color: #eeeeee;
+}
+
+.transparent-background {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.containers {
+  max-width: 90%;
+  margin: auto;
+}
+.NavLink {
+  transition: 0.5s ease-in-out;
+}
+.filter-card .activeLine,
+header nav .active {
+  color: #eeeeee;
+  position: relative;
+  transition: 0.5s ease-in-out;
+}
+.filter-card .activeLine::before,
+header nav .active::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  width: 100%;
+  background: #eeeeee;
+  transition: 0.5s ease-in-out;
+}
+.filter-card .activeLine {
+  color: #f75d34;
+}
+.filter-card .activeLine::before {
+  background: #f75d34;
+  top: 35px;
+}
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.grid4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+li,
+ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+.primary-btn-outline,
+.primary-btn,
+.outline-btn {
+  padding: 10px 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-weight: 500;
+  transition: 0.5s ease-in-out;
+}
+.outline-btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+.primary-btn {
+  border: none;
+  background-color: #f75d34;
+  color: #fff;
+}
+.primary-btn-outline {
+  border: none;
+  background-color: transparent;
+  color: #f75d34;
+  border: 1px solid #f75d34;
+  font-size: 13px;
+}
+
+.slick-slide {
+  padding: 10px;
+}
+
+.container {
+  max-width: 90%;
+  margin: auto;
+}
